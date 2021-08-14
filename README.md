@@ -2,7 +2,7 @@
 
 ### Repo for bots that can play songs in group voice chat telegram
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Found on telegram [EXMusic](https://t.me/EXMusiccbot)
+### Found on telegram [LuffyMusic](https://t.me/EXMusiccbot)
 
 
 <p align="center">
