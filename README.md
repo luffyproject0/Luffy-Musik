@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://telegra.ph/file/2974349178c55579926d7.jpg">
-# Bot Music Rioyz Adalah Pintar Dapat Memutar Music Di Vcg
+### Bot Music Rioyz Adalah Pintar Dapat Memutar Music Di Vcg
 </p>
 <h2> Features </h2>
 
@@ -48,3 +48,7 @@ Get pyrogram (p)  `SESSION` from here:
 ## Repo by [Rio](https://t.me/riio00)
 ## EX Update Channel [Rioyz Music](https://t.me/riobotsupport)
 ## Join Group Support Telegram [Rioyz Music](https://t.me/siiniaja)
+
+## Kredit 
+[Dev](https://github.com/luffyproject0)
+[Rio](https://github.com/RioProjectX)
