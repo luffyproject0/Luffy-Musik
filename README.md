@@ -4,11 +4,9 @@
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 ### Found on telegram [EXMusic](https://t.me/EXMusiccbot)
 
+
 <p align="center">
-  <img src="https://telegra.ph/file/d2b539f061923cee37797.jpg">
-</p>
-<p align="center">
-  <img src="https://telegra.ph/file/7cd6c44d1431b0fa9063b.jpg">
+  <img src="https://telegra.ph/file/4656ee4cfdc63753ca6db.jpg">
 </p>
 <h2> Features </h2>
 
@@ -46,6 +44,6 @@ Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/luffyproject0/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
 
 ## ⚡EX
-## Repo by [EX](https://t.me/rizexx)
-## EX Update Channel [EXProjects](https://t.me/EXProjects)
-## Join Group Support Telegram [EXSupport](https://t.me/EXGroupSupport)
+## Repo by [EX](https://t.me/riio00)
+## EX Update Channel [Luffy Music](https://t.me/riobotsupport)
+## Join Group Support Telegram [Luffy Music](https://t.me/siiniaja)
