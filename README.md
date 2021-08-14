@@ -1,4 +1,4 @@
-<h1 align="centre">EX-Music ♫</h1>
+<h1 align="centre">Luffy-Music ♫</h1>
 
 ### Repo for bots that can play songs in group voice chat telegram
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
