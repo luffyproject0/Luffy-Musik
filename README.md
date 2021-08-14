@@ -1,12 +1,13 @@
-<h1 align="centre">Luffy-Music ♫</h1>
+<h1 align="centre">Rioyz-Music ♫</h1>
 
 ### Repo for bots that can play songs in group voice chat telegram
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Found on telegram [LuffyMusic](https://t.me/EXMusiccbot)
+### Found on telegram [RioyzMusic](https://t.me/EXMusiccbot)
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4656ee4cfdc63753ca6db.jpg">
+  <img src="https://telegra.ph/file/2974349178c55579926d7.jpg">
+# Bot Music Rioyz Adalah Pintar Dapat Memutar Music Di Vcg
 </p>
 <h2> Features </h2>
 
@@ -38,12 +39,12 @@ $ python(3) -m EXmusic
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luffyproject0/EXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luffyproject0/Rioyz-Music)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/luffyproject0/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
 
-## ⚡EX
-## Repo by [EX](https://t.me/riio00)
-## EX Update Channel [Luffy Music](https://t.me/riobotsupport)
-## Join Group Support Telegram [Luffy Music](https://t.me/siiniaja)
+
+## Repo by [Rio](https://t.me/riio00)
+## EX Update Channel [Rioyz Music](https://t.me/riobotsupport)
+## Join Group Support Telegram [Rioyz Music](https://t.me/siiniaja)
