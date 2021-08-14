@@ -43,7 +43,7 @@ $ python(3) -m EXmusic
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luffyproject0/EXMusic)
 
 Get pyrogram (p)  `SESSION` from here:
-[![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
+[![Run on Repl.it](https://repl.it/badge/github/luffyproject0/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
 
 ## ⚡EX
 ## Repo by [EX](https://t.me/rizexx)
