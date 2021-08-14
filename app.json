@@ -1,10 +1,10 @@
 {
-  "name": "-EXMusic",
+  "name": "-RioyzMusic",
   "description": "Repo for telegram bot, can play songs on vcg. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/rizkyoye/EXMusic",
+  "repository": "https://github.com/luffyproject0/Luffy-Musik",
   "stack": "container",
-  "logo": "https://telegra.ph/file/708896ed251f0a3a6cfeb.jpg",
+  "logo": "https://telegra.ph/file/a77e4e0941bf3beb55957.jpg",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -31,17 +31,17 @@
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "EXSupportGroup"
+      "value": "siiniaja"
     },
     "UPDATES_CHANNEL": {
       "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "EXProjects"
+      "value": "riobotsupport"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "EX Project"
+      "value": "Luffy Project"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten Music Player Anda tanpa @.",
